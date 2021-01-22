@@ -1,0 +1,10 @@
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\bin\Debug\Agenda_Vanderson.exe.config
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\bin\Debug\Agenda_Vanderson.exe
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\bin\Debug\Agenda_Vanderson.pdb
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\obj\Debug\Agenda_Vanderson.csprojAssemblyReference.cache
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\obj\Debug\Agenda_Vanderson.frmAgenda.resources
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\obj\Debug\Agenda_Vanderson.Properties.Resources.resources
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\obj\Debug\Agenda_Vanderson.csproj.GenerateResource.cache
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\obj\Debug\Agenda_Vanderson.csproj.CoreCompileInputs.cache
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\obj\Debug\Agenda_Vanderson.exe
+C:\Users\vande\Documents\Senac\Agenda\Agenda_Vanderson\obj\Debug\Agenda_Vanderson.pdb
